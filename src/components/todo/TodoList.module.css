@@ -1,0 +1,14 @@
+.todoContainer {
+  border: 2px solid white;
+  width: 400px;
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.listContainer {
+  display: flex;
+}
